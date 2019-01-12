@@ -69,7 +69,7 @@ This section contains screenshots of each page that must be built, at varying sc
 #### Landing page
 
 Large screen:
-![Landing page large screen](Images/landing-lg.png)
+![Landing page large screen](landing-lg.png)
 
 Small screen:
 ![Landing page small screen](Images/landing-sm.png)
